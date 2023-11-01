@@ -24,7 +24,7 @@ A short description of example_role goes here, along with its options and a mini
 
 ## License
 
-[GPL-3.0-only](https://github.com/adfinis-sygroup/ansible-collection-TEMPLATE/blob/main/LICENSE)
+[GPL-3.0-or-later](https://github.com/adfinis-sygroup/ansible-collection-TEMPLATE/blob/main/LICENSE)
 
 ## Author Information
 
