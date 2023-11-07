@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/adfinis/ansible-collection-TEMPLATE)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/adfinis/ansible-collection-TEMPLATE/ansible-lint.yml)
-![adfinis.TEMPLATE on Ansible Galaxy](https://img.shields.io/ansible/collection/adfinis.TEMPLATE)
+[![adfinis.TEMPLATE on Ansible Galaxy](https://img.shields.io/badge/collection-adfinis.TEMPLATE-blue)](https://galaxy.ansible.com/ui/repo/published/adfinis/TEMPLATE/)
 
 
 This should serve as a TEMPLATE to create new collections.
